@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Assignment 3
-"""
-
 import math
 
 from operator import itemgetter
