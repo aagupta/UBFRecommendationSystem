@@ -24,7 +24,7 @@ songData = {"Angelica": {"Blues Traveler": 3.5, "Broken Bells": 2.0, "Norah Jone
 ###################################
 
 # import UserBasedFiltering module
-from A71UserBasedFiltering import UserBasedFilteringRecommender
+from UserBasedFiltering import UserBasedFilteringRecommender
 
 print ()
 
