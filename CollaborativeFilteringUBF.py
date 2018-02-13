@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Assignment 3
-"""
-
+## This file was created by Professor Hina Arora. 
 print ()
 
 ##################################
